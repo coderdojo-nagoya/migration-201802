@@ -2900,13 +2900,13 @@ BODY:
 
 <h3>今日の一枚</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170329/20170329115852.jpg" alt="f:id:whomeantan:20170329115852j:plain" title="f:id:whomeantan:20170329115852j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170329115852.jpg" alt="f:id:whomeantan:20170329115852j:plain" title="f:id:whomeantan:20170329115852j:plain" class="hatena-fotolife" itemprop="image"></span>
 いつも寡黙なTさん、忍者を暖かく見守っている。</p>
 
 <h2>序</h2>
 
 <p>春が待ち遠しいこのごろ、ちょっと雨模様の一日。楽しみにしていた資料館前の桜は満開だった。王冠ザクラと言うらしい。これが満開になり、散り始めると通常の<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%BD%A5%E1%A5%A4%A5%E8%A5%B7%A5%CE">ソメイヨシノ</a>が開花を迎えるという。個人的にも、今回でおしまいにする予定で、ひとつの季節感を記念として嬉しかった。
-<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170329/20170329121346.jpg" alt="f:id:whomeantan:20170329121346j:plain" title="f:id:whomeantan:20170329121346j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170329121346.jpg" alt="f:id:whomeantan:20170329121346j:plain" title="f:id:whomeantan:20170329121346j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>今日は常連のKくんが一番乗りかな、最初の頃は恥ずかしがっていたが、最近はお調子者的に振る舞っている。2回位遅れたのを気にしていたけれど・・・
 段々と集まってくる。メンターも山吉さん、宇津さん、宇津さんの妹さん、谷出さんと全員集合。忍者も2人くらいが遅刻で、一人が無断キャンセル。</p>
@@ -2923,19 +2923,19 @@ BODY:
 <li>おにごっこか、シューティング・ゲーム</li>
 <li>アクションゲーム</li>
 <li>ゴー・カート
-<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170329/20170329135950.jpg" alt="f:id:whomeantan:20170329135950j:plain" title="f:id:whomeantan:20170329135950j:plain" class="hatena-fotolife" itemprop="image"></span>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170329135950.jpg" alt="f:id:whomeantan:20170329135950j:plain" title="f:id:whomeantan:20170329135950j:plain" class="hatena-fotolife" itemprop="image"></span>
 みんな、それぞれにやっている。僕は何回か来て貰っているけど、あまり、きちんと対応できなかった小1のSくんに密着した。ゴーカートと言って絵を描いていたけど。一つ一つのスプライトに分けてもらうことからはじまった。それはそれで、やることがはっきりしてよかったけど。絵を見ると車の上にかごがある。爆弾を受ける。受ければクリア。車に当たればゲーム・オーバー。りんごが落ちてくるのとおなじのりでやったけど、爆弾は一発でゲームの終了だけをはっきりしたほうが良かったかも。</li>
 </ul>
 
 
 <h2>作品発表</h2>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170329/20170329224810.jpg" alt="f:id:whomeantan:20170329224810j:plain" title="f:id:whomeantan:20170329224810j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170329224810.jpg" alt="f:id:whomeantan:20170329224810j:plain" title="f:id:whomeantan:20170329224810j:plain" class="hatena-fotolife" itemprop="image"></span>
 1時間半の中で、それぞれに作って、発表するといういい習慣がついたかとも思う。完成度は低くても自信を持ってやってくれればいいと思う。最初のテーマ紹介でアクション・ゲームという声があり、具体的なイメージがわからなかったが、主人公スプライトを動かして、野を越え、山越え、谷を越えていくような物のことを言うらしい。</p>
 
 <h2>集合写真</h2>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170329/20170329152638.jpg" alt="f:id:whomeantan:20170329152638j:plain" title="f:id:whomeantan:20170329152638j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170329152638.jpg" alt="f:id:whomeantan:20170329152638j:plain" title="f:id:whomeantan:20170329152638j:plain" class="hatena-fotolife" itemprop="image"></span>
 今回はメンターの皆さんも入ってくれて、まとまりのいい写真になった。一回一回でみんなの顔が変わるのも面白い。</p>
 
 <h2>謝辞</h2>
@@ -2949,7 +2949,7 @@ BODY:
 <h2>感謝状</h2>
 
 <p>ちびっこメンターに感謝状を送りました。
-<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170329/20170329195055.jpg" alt="f:id:whomeantan:20170329195055j:plain" title="f:id:whomeantan:20170329195055j:plain" class="hatena-fotolife" itemprop="image"></span>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170329195055.jpg" alt="f:id:whomeantan:20170329195055j:plain" title="f:id:whomeantan:20170329195055j:plain" class="hatena-fotolife" itemprop="image"></span>
 ちびっこメンターのTくんに感謝状を送りました。最初、あったとき、3年生でこんなことまで出来るのだと感激して、即、ちびっこメンターになってもらいました。それからも忍者みんなの中心になって、場を盛り立ててくれました。数学者になるとの希望を持っているとのこと、パソコンの枠にはまらずに大きく育ってもらえればと思います。</p>
 
 <h2>チャンピオンの交代</h2>
@@ -2979,13 +2979,13 @@ BODY:
 
 <h3>今回の一枚</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170313/20170313115711.jpg" alt="f:id:whomeantan:20170313115711j:plain" title="f:id:whomeantan:20170313115711j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170313115711.jpg" alt="f:id:whomeantan:20170313115711j:plain" title="f:id:whomeantan:20170313115711j:plain" class="hatena-fotolife" itemprop="image"></span>
 リミックスしながらいろいろと覚えるというKくん。それを覗き込むRくん。</p>
 
 <h3>序</h3>
 
 <p>会場の前の資料館では既に桜が5分以上咲。ちょっとびっくり。これから春を見つけるのが楽しくなる。
-<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170313/20170313120213.jpg" alt="f:id:whomeantan:20170313120213j:plain" title="f:id:whomeantan:20170313120213j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170313120213.jpg" alt="f:id:whomeantan:20170313120213j:plain" title="f:id:whomeantan:20170313120213j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>会場内では忍者のKくん、Hくんが時間までに到着。今回はメンターの参加が読めなかったので定員を6名にした。
 ちょっと遅れて、Rくん、Yくんが到着。結局、2名が無断キャンセルでちょっと、寂しい感じであった。メンターの方は谷出さん、上野さんちょっと遅れて山吉さんと賑やかに揃ってくれた。</p>
@@ -3002,21 +3002,21 @@ BODY:
 </ul>
 
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170313/20170313131154.jpg" alt="f:id:whomeantan:20170313131154j:plain" title="f:id:whomeantan:20170313131154j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170313131154.jpg" alt="f:id:whomeantan:20170313131154j:plain" title="f:id:whomeantan:20170313131154j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>作品発表</h3>
 
 <p>Kくんはリミックスをいろいろやって、発表ではアクションゲームでスプライトの動きがスムースになったと言っていた。Yくんはアクションガームで武器を4種類作っていた。アニメーションでき<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A4%EC%A4%A4">れい</a>な画面を作っていた。まあ、作品作りの一歩を始めたと言ったところだった。
-<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170313/20170313135625.jpg" alt="f:id:whomeantan:20170313135625j:plain" title="f:id:whomeantan:20170313135625j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170313135625.jpg" alt="f:id:whomeantan:20170313135625j:plain" title="f:id:whomeantan:20170313135625j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>集合写真</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170313/20170313154716.jpg" alt="f:id:whomeantan:20170313154716j:plain" title="f:id:whomeantan:20170313154716j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170313154716.jpg" alt="f:id:whomeantan:20170313154716j:plain" title="f:id:whomeantan:20170313154716j:plain" class="hatena-fotolife" itemprop="image"></span>
 今回は人が少なかった。日頃、入らないメンターも入ってくれた。忍者3人にメンター3人。写真はメンターの上野さん、色々と手伝いの方に回ってくれた。</p>
 
 <h3>番外</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170313/20170313155635.jpg" alt="f:id:whomeantan:20170313155635j:plain" title="f:id:whomeantan:20170313155635j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170313155635.jpg" alt="f:id:whomeantan:20170313155635j:plain" title="f:id:whomeantan:20170313155635j:plain" class="hatena-fotolife" itemprop="image"></span>
 いつも忍者の弟さん、妹さんが楽しみに最後の発表で参加してくれる。今回はRくんの妹さんが楽しそうにしてくれた。</p>
 
 <h3>謝辞</h3>
@@ -3059,7 +3059,7 @@ BODY:
 <pre><code>      みんなの作品画面、それぞれに工夫を凝らして!!
 </code></pre>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170220/20170220134535.jpg" alt="f:id:whomeantan:20170220134535j:plain" title="f:id:whomeantan:20170220134535j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170220134535.jpg" alt="f:id:whomeantan:20170220134535j:plain" title="f:id:whomeantan:20170220134535j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>[概要]</h3>
 
@@ -3069,7 +3069,7 @@ BODY:
 
 <h3>▽先回に続き<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%DA%A5%A2%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0">ペアプログラミング</a>を行いました</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170220/20170220134839.jpg" alt="f:id:whomeantan:20170220134839j:plain" title="f:id:whomeantan:20170220134839j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170220134839.jpg" alt="f:id:whomeantan:20170220134839j:plain" title="f:id:whomeantan:20170220134839j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>ふたり一組になり、原則パソコン一台で作品作りを行います。
 ひとりがドライバーといって、プログラムを書く、何を作るか考えます。もう一人はナビゲーターといって、ドライバーの間違いを教えたり、アイディアを伝えたり、もうひとりが正しいかどうかを見ます。１０分たつと、役割を交代します。<a class="keyword" href="http://d.hatena.ne.jp/keyword/iPad">iPad</a>で設定、時間調整を行います。
@@ -3080,19 +3080,19 @@ BODY:
 <p>　
 こちらでペアをどうするか、考えていたのですが、遅れたお子さんも見えて、受け付け通ったところ、好きな席へ。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170220/20170220135111.jpg" alt="f:id:whomeantan:20170220135111j:plain" title="f:id:whomeantan:20170220135111j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170220135111.jpg" alt="f:id:whomeantan:20170220135111j:plain" title="f:id:whomeantan:20170220135111j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽なかよく相談中(^^)/</h3>
 
 <p>まずは、自分でやってみよう、考えてみよう。設計図を書いてね、どんな内容にする?　メンターさんが用紙を配るときに、話しかけます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170220/20170220135218.jpg" alt="f:id:whomeantan:20170220135218j:plain" title="f:id:whomeantan:20170220135218j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170220135218.jpg" alt="f:id:whomeantan:20170220135218j:plain" title="f:id:whomeantan:20170220135218j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽初級の忍者は、メンターさんとペアに</h3>
 
 <p>猫とネズミのゲームをいっしょに、そのあと、自分で好きな動きを作りました。シンプルに横に進むだけでも、それでも楽しくて仕方ない様子でした。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170220/20170220135342.jpg" alt="f:id:whomeantan:20170220135342j:plain" title="f:id:whomeantan:20170220135342j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170220135342.jpg" alt="f:id:whomeantan:20170220135342j:plain" title="f:id:whomeantan:20170220135342j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽作品発表</h3>
 
@@ -3113,13 +3113,13 @@ BODY:
 
 <p>発表がおわった子は、松成さんからチョコレートをもらいました。よかったね。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170220/20170220140253.jpg" alt="f:id:whomeantan:20170220140253j:plain" title="f:id:whomeantan:20170220140253j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170220140253.jpg" alt="f:id:whomeantan:20170220140253j:plain" title="f:id:whomeantan:20170220140253j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽みんなで集合写真　</h3>
 
 <p>ちょっと隠れてしまった子もみえてごめんなさい。笑顔にと、イチ、ニーッと、ひとりやってくれました、ありがとう(^^)/</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170220/20170220140530.jpg" alt="f:id:whomeantan:20170220140530j:plain" title="f:id:whomeantan:20170220140530j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170220140530.jpg" alt="f:id:whomeantan:20170220140530j:plain" title="f:id:whomeantan:20170220140530j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▽終わりに</h4>
 
@@ -3169,7 +3169,7 @@ BODY:
 <pre><code>         ふたりで作品発表、小さい妹さんも一緒に
 </code></pre>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170213/20170213161010.jpg" alt="f:id:whomeantan:20170213161010j:plain" title="f:id:whomeantan:20170213161010j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170213161010.jpg" alt="f:id:whomeantan:20170213161010j:plain" title="f:id:whomeantan:20170213161010j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>[概要]</h3>
 
@@ -3183,7 +3183,7 @@ BODY:
 
 <h4>「今日は<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%DA%A5%A2%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0">ペアプログラミング</a>をやります」メンター宇津さんが説明</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170213/20170213161210.jpg" alt="f:id:whomeantan:20170213161210j:plain" title="f:id:whomeantan:20170213161210j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170213161210.jpg" alt="f:id:whomeantan:20170213161210j:plain" title="f:id:whomeantan:20170213161210j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p><a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%DA%A5%A2%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0">ペアプログラミング</a>は二人一組でプログラムを行い、ドライバーとナビゲーターに役割を分けます。ドライバーというのは実際にス<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%C3%A5%C1">クラッチ</a>でプログラムを書く役割です。どんなプログラムを書こうとしているか、必ずナビゲーターに説明します。ナビゲーターはそれを聞いて、アド<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4">バイ</a>スします。※ドライバーとナビゲーターは15分くらいで交代します。</p>
 
@@ -3191,24 +3191,24 @@ BODY:
 休んだ忍者のところには、見学にみえていた安川さんが「はーい僕やります」と気軽に声をあげていただいたので、
 お願いしました。五組がそれぞれペアとなり、原則ひとつのパソコンでひとつの作品をつくります。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170213/20170213162532.jpg" alt="f:id:whomeantan:20170213162532j:plain" title="f:id:whomeantan:20170213162532j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170213162532.jpg" alt="f:id:whomeantan:20170213162532j:plain" title="f:id:whomeantan:20170213162532j:plain" class="hatena-fotolife" itemprop="image"></span>
 ▲安川さん(左)とペアの忍者はラッキーな中学生、すこし緊張、</p>
 
 <h3>▽　話し合って、始めに設計図を描く</h3>
 
 <p>途中、それぞれペアの会話が聞こえてきます。やりとり、やりとりの話しあいで進めます。15分たつと、パソコンに触るドライバー役を交代します。10～15分くらいというのは、ちょうどひとつの動きを考えたり、作ったりという感じでしょうか。メンターさんに促されると、とくに文句もなく素直です。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170213/20170213162848.jpg" alt="f:id:whomeantan:20170213162848j:plain" title="f:id:whomeantan:20170213162848j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170213162848.jpg" alt="f:id:whomeantan:20170213162848j:plain" title="f:id:whomeantan:20170213162848j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽メンターさんがサポート</h3>
 
 <p>ふたりで相談したけど、良い案が出てこないときは、メンターさんを呼びます。ふたりともわからないときです。ひとりよりふたり、違った個性と向き合うのもよい時間だと思いました。人見知りさんもみえたかな。みんな仲よくやっていました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170213/20170213171411.jpg" alt="f:id:whomeantan:20170213171411j:plain" title="f:id:whomeantan:20170213171411j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170213171411.jpg" alt="f:id:whomeantan:20170213171411j:plain" title="f:id:whomeantan:20170213171411j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽さあ ふたりで発表!</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170213/20170213163739.jpg" alt="f:id:whomeantan:20170213163739j:plain" title="f:id:whomeantan:20170213163739j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170213163739.jpg" alt="f:id:whomeantan:20170213163739j:plain" title="f:id:whomeantan:20170213163739j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>・Y 氏＆Sくん・・・アクションゲーム。アクションの基本、マリオの基本となるゲーム、バグをなおすことでスムースに動くようになった。</p>
 
@@ -3224,7 +3224,7 @@ BODY:
 
 <p>いつもより、リラックスした顔もあります。風邪がまだはやっているとかでマスクをしている子もみえます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170213/20170213164919.jpg" alt="f:id:whomeantan:20170213164919j:plain" title="f:id:whomeantan:20170213164919j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170213164919.jpg" alt="f:id:whomeantan:20170213164919j:plain" title="f:id:whomeantan:20170213164919j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼終わりに</h4>
 
@@ -3277,12 +3277,12 @@ BODY:
 <pre><code>               全員揃いました。みんな集中しています。
 </code></pre>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170123/20170123145138.jpg" alt="f:id:whomeantan:20170123145138j:plain" title="f:id:whomeantan:20170123145138j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170123145138.jpg" alt="f:id:whomeantan:20170123145138j:plain" title="f:id:whomeantan:20170123145138j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>▽ウィル愛知へ行く途中、いつも何か変化はないかな、と歩いています。そうすると何かひとつは見つけます。この日は、道路沿いに葉牡丹を見つけました。可愛らしい。2月ころまで咲き続けるとか。
 ※葉牡丹は、「祝福」「利益」「慈愛」など、お祝い事にぴったりの<a class="keyword" href="http://d.hatena.ne.jp/keyword/%B2%D6%B8%C0%CD%D5">花言葉</a>がつけられています。縁起のよい植物として、お正月の寄せ植えに昔から利用されてきました。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%CC%BE%B8%C5%B2%B0%BB%D4%C5%EC%B6%E8">名古屋市東区</a>上竪杉町</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170123/20170123145424.jpg" alt="f:id:whomeantan:20170123145424j:plain" title="f:id:whomeantan:20170123145424j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170123145424.jpg" alt="f:id:whomeantan:20170123145424j:plain" title="f:id:whomeantan:20170123145424j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>[概要]</h4>
 
@@ -3302,19 +3302,19 @@ BODY:
 
 <p>チャンピオンは一人ずつの話を聞きながら、迷路とはなにかわかる? 、ゲームらしくするにはどうする、など、ひとつ先の視点を加えます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170123/20170123145743.jpg" alt="f:id:whomeantan:20170123145743j:plain" title="f:id:whomeantan:20170123145743j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170123145743.jpg" alt="f:id:whomeantan:20170123145743j:plain" title="f:id:whomeantan:20170123145743j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽みんなで制作中</h3>
 
 <p>この日は、まだ数回の子にはScratch2.0にサインインするアカウントをとるためにお母さんも一緒にやってもらいました。これも大切なことです。また、テキストの読み込みがちょっと一年生では難しく、メンターさんに説明を聞いたり、やり方がわからなくて教えてもらうなど、主な会場の様子でした。ちびっこメンター君もみんなの相談にのってくれています。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170123/20170123150605.jpg" alt="f:id:whomeantan:20170123150605j:plain" title="f:id:whomeantan:20170123150605j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170123150605.jpg" alt="f:id:whomeantan:20170123150605j:plain" title="f:id:whomeantan:20170123150605j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▽発表の時間</h3>
 
 <p>CoderDojo名古屋では、発表の前にその日やろうとしたこと、できたこと、おぼえたことなどを書いてもらっています。最近は用紙に書くことが身についてきました。発表しやすいという利点もあります。「むむ」「うーんと」よく考えたことを振り返る時間です。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170123/20170123160229.jpg" alt="f:id:whomeantan:20170123160229j:plain" title="f:id:whomeantan:20170123160229j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170123160229.jpg" alt="f:id:whomeantan:20170123160229j:plain" title="f:id:whomeantan:20170123160229j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>・1年　NSくん　猫ジャンプ→シュミレーション　「わくわくプログラミング2」から。</p>
 
@@ -3336,7 +3336,7 @@ BODY:
 
 <p>お迎えにみえた家族とあれこれ話しながら、一緒に帰る楽しみもありますね。チャンピオンとメンターは、このあとちょっと反省会などして帰ります。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170123/20170123151243.jpg" alt="f:id:whomeantan:20170123151243j:plain" title="f:id:whomeantan:20170123151243j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170123151243.jpg" alt="f:id:whomeantan:20170123151243j:plain" title="f:id:whomeantan:20170123151243j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼終わりに</h4>
 
@@ -3386,7 +3386,7 @@ BODY:
 
 <p> メンターUさんが発表。<a class="keyword" href="http://d.hatena.ne.jp/keyword/NHK">NHK</a>の「<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D4%A5%BF%A5%B4%A5%E9%A5%B9%A5%A4%A5%C3%A5%C1">ピタゴラスイッチ</a>・・」にヒントを得た作品とか。Ballがリズミカルに飛んで文字にあたると、文字のひとつずつが、踊りはねながら四角いマスにポン-と入って「い・の・し・し」などと熟語になります。ニンジャも他のメンターさんもみんな興味津々でした。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170116/20170116141127.jpg" alt="f:id:whomeantan:20170116141127j:plain" title="f:id:whomeantan:20170116141127j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170116141127.jpg" alt="f:id:whomeantan:20170116141127j:plain" title="f:id:whomeantan:20170116141127j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>[概要]</h3>
 
@@ -3400,19 +3400,19 @@ BODY:
 
 <p><b>▽下の写真は、お昼正午の雪どけの景色。ウィルあいちを右手に、市政資料館を左手に
 </b>
-<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170116/20170116141450.jpg" alt="f:id:whomeantan:20170116141450j:plain" title="f:id:whomeantan:20170116141450j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170116141450.jpg" alt="f:id:whomeantan:20170116141450j:plain" title="f:id:whomeantan:20170116141450j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼午後１時半　会の始まり「今日のテーマは何?」</h3>
 
 <p>「今日はなにを作るか、作りたいか、一人ずつ言ってね」いつものようにチャンピオンがお話しします。今日は初めての参加で、わからない子も何人かみえました。また、少しずつ考えていきましょう。初めてで、小さいお子さんは、ちょっと親御さんと別れる寂しさもあるようです。寂しくなった女の子に優しいメンターさんが付き添ってくれました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170116/20170116141657.jpg" alt="f:id:whomeantan:20170116141657j:plain" title="f:id:whomeantan:20170116141657j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170116141657.jpg" alt="f:id:whomeantan:20170116141657j:plain" title="f:id:whomeantan:20170116141657j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼見守るとは・・・</h3>
 
 <p>おひさまぽかぽかの部屋ですが、飛び入りメンターさんもみえて、余計に温かく活気のある雰囲気でした。メンターさんは「見守る」という姿勢が大事だとチャンピオンがいわれます。しかし、見守るとはどういうこと?　　ぼんやりと、見ているだけではありません。子供たちがなにをやりたいか、わくわくする気持ちを引きだし、やってみて挫折しないように応援し、技術的にも、ちょっとだけ手伝うことがができたらいいな、というふうに個人的には思います。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170116/20170116142410.jpg" alt="f:id:whomeantan:20170116142410j:plain" title="f:id:whomeantan:20170116142410j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170116142410.jpg" alt="f:id:whomeantan:20170116142410j:plain" title="f:id:whomeantan:20170116142410j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5>▲上の写真は、メンターさんと子供の様子</h5>
 
@@ -3426,7 +3426,7 @@ BODY:
 
 <p>●kaさん・・・初めての参加。お友達の紹介でみえました。ひとりのメンターさんがついてくれました。キー操作で、猫の色が変わったり、ニャーと鳴いたり、左右に動く、小さくなる、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8">スクリプト</a>で、いろいろ変化するのが面白いとのことでした。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170116/20170116142802.jpg" alt="f:id:whomeantan:20170116142802j:plain" title="f:id:whomeantan:20170116142802j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170116142802.jpg" alt="f:id:whomeantan:20170116142802j:plain" title="f:id:whomeantan:20170116142802j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>●koくん・・・マインクラフトに似たゲームを登場人物の形など、すこし変化させて楽しそうにやっていました。発表は別作品でした。絵を描くのが好きなお子さん、今日は自分の顔写真を入れてキャラクターを描き、それを動かす<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8">スクリプト</a>を組んでいました。オリジナルイラストがみんなの注目を集めていました。</p>
 
@@ -3446,7 +3446,7 @@ BODY:
 
 <p>ご家族や見学の方にも呼びかけて少し、入っていただきました。はい、パチリ。けっこういろんな方向むいていますね。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB">スマホ</a>でご家族の方が撮っていらっしゃったようです。(^^)/</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20170116/20170116145232.jpg" alt="f:id:whomeantan:20170116145232j:plain" title="f:id:whomeantan:20170116145232j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20170116145232.jpg" alt="f:id:whomeantan:20170116145232j:plain" title="f:id:whomeantan:20170116145232j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼終わりに</h3>
 
@@ -3493,7 +3493,7 @@ BODY:
 <pre><code> 姉妹で参加、クリスマスのゲームSanta trackerをふたりで楽しんでいます!
 </code></pre>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161226/20161226155110.jpg" alt="f:id:whomeantan:20161226155110j:plain" title="f:id:whomeantan:20161226155110j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161226155110.jpg" alt="f:id:whomeantan:20161226155110j:plain" title="f:id:whomeantan:20161226155110j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>[概要]</h4>
 
@@ -3511,7 +3511,7 @@ BODY:
 
 <p>メンターさんがそろい、子供たちも三々五々やってきて、パソコンの準備を始めました。いつもの会の始まり。チャンピオンが今日やることを話します。「今日はみんなで<a class="keyword" href="http://d.hatena.ne.jp/keyword/google">google</a>　Santa tracker　のゲームをやりましょう。ゲームをやる子は手を挙げてね。それから、自主制作の子はテーマを言ってください」。クリス<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%DE%A5%B9%A5%B2%A1%BC%A5%E0">マスゲーム</a>をやる子が大半でした。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161226/20161226155541.jpg" alt="f:id:whomeantan:20161226155541j:plain" title="f:id:whomeantan:20161226155541j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161226155541.jpg" alt="f:id:whomeantan:20161226155541j:plain" title="f:id:whomeantan:20161226155541j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>Santa tracker(<a href="https://santatracker.google.com/village.html">https://santatracker.google.com/village.html</a>)
 ハイ出てきました。
@@ -3520,13 +3520,13 @@ BODY:
 
 <p>また、ちびっこメンターの作ったゲームをやる子もいますし、ス<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%C3%A5%C1">クラッチ</a>作品集から選んで同じものを一緒にやっている子たちもいます。隣り同士で伝線していくようですね。見ていると、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%CE%D9%C1%C8">隣組</a>を作っている子たちは、互いに気持ちを合わせたり、と助け合っています。また、ひとりでコツコツゲームをやっている子はとても静かですね。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161226/20161226160235.jpg" alt="f:id:whomeantan:20161226160235j:plain" title="f:id:whomeantan:20161226160235j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161226160235.jpg" alt="f:id:whomeantan:20161226160235j:plain" title="f:id:whomeantan:20161226160235j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼Scratchもやりたい</h3>
 
 <p>途中からス<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%C3%A5%C1">クラッチ</a>をやるよ、先回の続き教えてください、と、ゲームに飽きた子はス<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%C3%A5%C1">クラッチ</a>へ戻ります。そういう子はメンターさんにアド<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4">バイ</a>スをもらいながら、楽しそうにチャレンジ。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161226/20161226160451.jpg" alt="f:id:whomeantan:20161226160451j:plain" title="f:id:whomeantan:20161226160451j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161226160451.jpg" alt="f:id:whomeantan:20161226160451j:plain" title="f:id:whomeantan:20161226160451j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼発表の時間です</h3>
 
@@ -3546,13 +3546,13 @@ BODY:
 
 <p>「自分で作れそうなゲームがあったかな」「今日やったことを、今後の作品作りのヒントにしてね」と、メンターさんからアド<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4">バイ</a>スをもらいました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161226/20161226160730.jpg" alt="f:id:whomeantan:20161226160730j:plain" title="f:id:whomeantan:20161226160730j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161226160730.jpg" alt="f:id:whomeantan:20161226160730j:plain" title="f:id:whomeantan:20161226160730j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼集合写真</h3>
 
 <p>小さいお子さんたちが入ってくれて賑やかになりました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161226/20161226160909.jpg" alt="f:id:whomeantan:20161226160909j:plain" title="f:id:whomeantan:20161226160909j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161226160909.jpg" alt="f:id:whomeantan:20161226160909j:plain" title="f:id:whomeantan:20161226160909j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼終わりに</h4>
 
@@ -3597,7 +3597,7 @@ BODY:
 <p> ・・・自分で作ったゲームのやりかたを教えてくれる二年生。わかるかな?　
 しきりに聞きながら確認。メンターUさんも加わって、たのしいひととき。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161212/20161212124905.jpg" alt="f:id:whomeantan:20161212124905j:plain" title="f:id:whomeantan:20161212124905j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161212124905.jpg" alt="f:id:whomeantan:20161212124905j:plain" title="f:id:whomeantan:20161212124905j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>[概要]</h4>
 
@@ -3616,7 +3616,7 @@ BODY:
 
 <h3>▼会の始まり、みんなでひと騒ぎ、、、</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161212/20161212125222.jpg" alt="f:id:whomeantan:20161212125222j:plain" title="f:id:whomeantan:20161212125222j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161212125222.jpg" alt="f:id:whomeantan:20161212125222j:plain" title="f:id:whomeantan:20161212125222j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p> さあ会の始まりです。
 メンター緊張の面持ち、子供たちは騒いでいます。そこへ松成チャンピオンから一喝。「遊んでいる子はパソコンとじて、今日なにやるか、考えて!!パソコンとじて、とじて」</p>
@@ -3629,7 +3629,7 @@ BODY:
 
 <h3>▼作品作り</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161212/20161212125809.jpg" alt="f:id:whomeantan:20161212125809j:plain" title="f:id:whomeantan:20161212125809j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161212125809.jpg" alt="f:id:whomeantan:20161212125809j:plain" title="f:id:whomeantan:20161212125809j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5>〇「黄色と青のドラゴン」の続き、完成に近づく</h5>
 
@@ -3642,7 +3642,7 @@ BODY:
 
 <h3>▼メンターと一緒に考えます</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161212/20161212130316.jpg" alt="f:id:whomeantan:20161212130316j:plain" title="f:id:whomeantan:20161212130316j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161212130316.jpg" alt="f:id:whomeantan:20161212130316j:plain" title="f:id:whomeantan:20161212130316j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5>〇ちびっこメンター君活躍</h5>
 
@@ -3651,7 +3651,7 @@ BODY:
 
 <h3>▼発表の時間です</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161212/20161212130725.jpg" alt="f:id:whomeantan:20161212130725j:plain" title="f:id:whomeantan:20161212130725j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161212130725.jpg" alt="f:id:whomeantan:20161212130725j:plain" title="f:id:whomeantan:20161212130725j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5>〇あっという間に描いて・・・</h5>
 
@@ -3669,7 +3669,7 @@ BODY:
 
 <h3>▼忘れないうちに集合写真</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161212/20161212132634.jpg" alt="f:id:whomeantan:20161212132634j:plain" title="f:id:whomeantan:20161212132634j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161212132634.jpg" alt="f:id:whomeantan:20161212132634j:plain" title="f:id:whomeantan:20161212132634j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼終わりに</h3>
 
@@ -3709,7 +3709,7 @@ BODY:
 
 <h4>▼今週の一枚「みんなで応援」</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161121/20161121142333.jpg" alt="f:id:whomeantan:20161121142333j:plain" title="f:id:whomeantan:20161121142333j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161121142333.jpg" alt="f:id:whomeantan:20161121142333j:plain" title="f:id:whomeantan:20161121142333j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>今回は新しいお子さんで希望される方に親御さんの協力を得てHourofCodeをやっていただきました。発表の時、ちょっと緊張しますが、みんなで応援。</p>
 
@@ -3727,13 +3727,13 @@ BODY:
 
 <p>親御さんの協力を得て、パソコンを立ち上げ、ネットへ繋げて、着々と進んでいきます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161121/20161121143135.jpg" alt="f:id:whomeantan:20161121143135j:plain" title="f:id:whomeantan:20161121143135j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161121143135.jpg" alt="f:id:whomeantan:20161121143135j:plain" title="f:id:whomeantan:20161121143135j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼今日やること 　～「えーっと」考え中の子や、細かく考えてきた子も～</h4>
 
 <p>さて、はじめに「今日はなにやるの、考えてきた？」とチャンピオンの松成さんが話しかけています</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161121/20161121143333.jpg" alt="f:id:whomeantan:20161121143333j:plain" title="f:id:whomeantan:20161121143333j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161121143333.jpg" alt="f:id:whomeantan:20161121143333j:plain" title="f:id:whomeantan:20161121143333j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <ul>
 <li>せんそうゲーム（絵を描くところから)</li>
@@ -3759,11 +3759,11 @@ BODY:
 
 <h5>▽わからないところは、メンターさんと一緒に考えて・・・</h5>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161121/20161121145311.jpg" alt="f:id:whomeantan:20161121145311j:plain" title="f:id:whomeantan:20161121145311j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161121145311.jpg" alt="f:id:whomeantan:20161121145311j:plain" title="f:id:whomeantan:20161121145311j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5>▽一人考える時間も、大切に・・・</h5>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161121/20161121145503.jpg" alt="f:id:whomeantan:20161121145503j:plain" title="f:id:whomeantan:20161121145503j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161121145503.jpg" alt="f:id:whomeantan:20161121145503j:plain" title="f:id:whomeantan:20161121145503j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼発表の時間となりました</h4>
 
@@ -3776,13 +3776,13 @@ BODY:
 
 <p>そんななか、Hour of Code　をやってみて、難しかったことや、わかったことなどを、紙に書いてまとめて発表してくれた一年生や年長さんもいました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161121/20161121145729.jpg" alt="f:id:whomeantan:20161121145729j:plain" title="f:id:whomeantan:20161121145729j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161121145729.jpg" alt="f:id:whomeantan:20161121145729j:plain" title="f:id:whomeantan:20161121145729j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼いっしょに写真撮りましょう</h4>
 
 <p>小さい妹さんにも入ってもらい、一枚。お兄さんお姉さん、おつかれさま</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161121/20161121145842.jpg" alt="f:id:whomeantan:20161121145842j:plain" title="f:id:whomeantan:20161121145842j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161121145842.jpg" alt="f:id:whomeantan:20161121145842j:plain" title="f:id:whomeantan:20161121145842j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼終わりに</h4>
 
@@ -3820,7 +3820,7 @@ BODY:
 
 <p>今日はお兄ちゃんに代わってわたしが参加。楽しそうにパソコンに向かっている一年生。女子は少ないのでたまにみえると雰囲気も変わります。リボンが可愛らしい。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161115/20161115201823.jpg" alt="f:id:whomeantan:20161115201823j:plain" title="f:id:whomeantan:20161115201823j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161115201823.jpg" alt="f:id:whomeantan:20161115201823j:plain" title="f:id:whomeantan:20161115201823j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>[概要]</h4>
 
@@ -3836,7 +3836,7 @@ BODY:
 
 <p>さて、今日の作品のテーマは何？　ひとりずつ聞いて、松成チャンピオンが、白板に書いていきます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161115/20161115205801.jpg" alt="f:id:whomeantan:20161115205801j:plain" title="f:id:whomeantan:20161115205801j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161115205801.jpg" alt="f:id:whomeantan:20161115205801j:plain" title="f:id:whomeantan:20161115205801j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼各自、準備してくれました</h4>
 
@@ -3865,7 +3865,7 @@ BODY:
 
 <p>Hour of Codeが初めての子には、慣れるまでアド<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4">バイ</a>スがあると割合にスムーズに進みます。今日は、図形を描く角度の問題をやっていた子が「これどうやってやるの?」と質問、メンターのやまよしさんが早速パソコン出して、一緒に問題を解いてくれることになりました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161115/20161115210515.jpg" alt="f:id:whomeantan:20161115210515j:plain" title="f:id:whomeantan:20161115210515j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161115210515.jpg" alt="f:id:whomeantan:20161115210515j:plain" title="f:id:whomeantan:20161115210515j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼はじめてのリミックスどうだったかな</h4>
 
@@ -3878,7 +3878,7 @@ BODY:
 
 <p>※ス<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%C3%A5%C1">クラッチ</a>では、共有された作品は、見て遊べるだけでなく、だれでもそれを改造して、自分の新しい作品を作れるようになっています。この改造のことを「リミックス」と言います。ス<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%C3%A5%C1">クラッチ</a>では、作品を共有するときに、リミックスの許可もすることになっています。「リミックスとは何ですか?」→(<a href="https://scratch.mit.edu/info/faq/#remix">https://scratch.mit.edu/info/faq/#remix</a>)</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161115/20161115211550.jpg" alt="f:id:whomeantan:20161115211550j:plain" title="f:id:whomeantan:20161115211550j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161115211550.jpg" alt="f:id:whomeantan:20161115211550j:plain" title="f:id:whomeantan:20161115211550j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼そろそろ発表の時間、どうかな</h4>
 
@@ -3886,13 +3886,13 @@ BODY:
 
 <p>ここでは、みんなで作品を見て、そこでどうやって作ったか、何が難しかったか、なにがわかったか、などの話を聞きます。慣れていないと、声が小さかったり、話すことがわからなかったりしますが、メンターさんやチャンピオンなど周囲の突っ込みもあり、徐々に上手になっていきます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161115/20161115211825.jpg" alt="f:id:whomeantan:20161115211825j:plain" title="f:id:whomeantan:20161115211825j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161115211825.jpg" alt="f:id:whomeantan:20161115211825j:plain" title="f:id:whomeantan:20161115211825j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼みんなお疲れ様　「集合写真撮ろうね～」</h4>
 
 <p>いつもの顔ぶれ＋新しい忍者、みんな日々成長中です。かんばってね。※女の子は用事があり、写真撮る前に帰りました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161115/20161115212035.jpg" alt="f:id:whomeantan:20161115212035j:plain" title="f:id:whomeantan:20161115212035j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161115212035.jpg" alt="f:id:whomeantan:20161115212035j:plain" title="f:id:whomeantan:20161115212035j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5>▼終わりに</h5>
 
@@ -3933,7 +3933,7 @@ BODY:
 <pre><code>      ・・・いつも遠慮がちなんだけど、今回「はーい」と発表！みんなも楽しそう。
 </code></pre>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161024/20161024134654.jpg" alt="f:id:whomeantan:20161024134654j:plain" title="f:id:whomeantan:20161024134654j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161024134654.jpg" alt="f:id:whomeantan:20161024134654j:plain" title="f:id:whomeantan:20161024134654j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>[概要]</h4>
 
@@ -3948,7 +3948,7 @@ BODY:
 
 <p>用紙を渡して書いてもらいますが、ここでちょっと考え中のひともいます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161024/20161024135509.jpg" alt="f:id:whomeantan:20161024135509j:plain" title="f:id:whomeantan:20161024135509j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161024135509.jpg" alt="f:id:whomeantan:20161024135509j:plain" title="f:id:whomeantan:20161024135509j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼各自、準備してくれたテーマ</h4>
 
@@ -3966,24 +3966,24 @@ BODY:
 </ul>
 
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161024/20161024140141.jpg" alt="f:id:whomeantan:20161024140141j:plain" title="f:id:whomeantan:20161024140141j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161024140141.jpg" alt="f:id:whomeantan:20161024140141j:plain" title="f:id:whomeantan:20161024140141j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼ただいま作品制作中</h4>
 
 <p>▽一年生が、ちびっこメンターさんに教えてもらいます。こういうふうにやりたい、というと、うんうん、５分あればできる、と、さっそく、となりに座って、上手に話してくれます。頼もしいお兄さん。 ▽ふたりでゲームの練習している子たち、のぞいてみると「ここでいっぱい草をはやして、、、家も建てて、、」と現実的なんだね。　▽工事中の、ダイナミックなお絵描きをしている子もいます。将来は土木建築家？お友達がしっかり見守ります。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161024/20161024140509.jpg" alt="f:id:whomeantan:20161024140509j:plain" title="f:id:whomeantan:20161024140509j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161024140509.jpg" alt="f:id:whomeantan:20161024140509j:plain" title="f:id:whomeantan:20161024140509j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>▼こちらはメンターさんからアド<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4">バイ</a>スをもらっています。みんな聞きたいことがあると最近は、手を挙げてくれます。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161024/20161024140635.jpg" alt="f:id:whomeantan:20161024140635j:plain" title="f:id:whomeantan:20161024140635j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161024140635.jpg" alt="f:id:whomeantan:20161024140635j:plain" title="f:id:whomeantan:20161024140635j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼なんとか、できました！発表です</h4>
 
 <p>今日はちびっこメンターを皮切りに、１０名が作品もできて、自分たちで発表の順番を決めました。帰りのおとなメンターさんの反省会でも、なかなかよかった、という感想が出ました。
 ※メンターのうつさんも発表されました。メンターさんはあまり発表されませんので、素晴らしいことです。みんなで静かに見ました。ロケット発射するとブロックが出て、積み重なっていくゲームです。また続きを楽しみに。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161024/20161024140847.jpg" alt="f:id:whomeantan:20161024140847j:plain" title="f:id:whomeantan:20161024140847j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161024140847.jpg" alt="f:id:whomeantan:20161024140847j:plain" title="f:id:whomeantan:20161024140847j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>ところで、ひとつ忍者へのお願いがあります。
 Scratch2で、みんなサインインして作品を共有すること、慣れた子はスイスイとやってくれます。今日も４人はできました。共有することで、自分の作品を見てもらうこともできますし、他の作品を見る機会も増えます。勉強にもなり視野が広がると、チャンピオン松成さんのおすすめです。
@@ -3993,7 +3993,7 @@ Scratch2で、みんなサインインして作品を共有すること、慣れ
 
 <p>ピースサイン、おすまし、真面目にと、いろいろなポーズをとってくれました。みんなすっかり打ちとけて、写真撮るのに盛り上がり、良い雰囲気でした。お迎えにきた可愛い妹さんも入ってくれてありがとう。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161024/20161024141214.jpg" alt="f:id:whomeantan:20161024141214j:plain" title="f:id:whomeantan:20161024141214j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161024141214.jpg" alt="f:id:whomeantan:20161024141214j:plain" title="f:id:whomeantan:20161024141214j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼終わりに</h4>
 
@@ -4030,7 +4030,7 @@ BODY:
 
 <p><b>▼今週の一枚</b>・・・「これどう組めばいいかな」</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161012/20161012123832.jpg" alt="f:id:whomeantan:20161012123832j:plain" title="f:id:whomeantan:20161012123832j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161012123832.jpg" alt="f:id:whomeantan:20161012123832j:plain" title="f:id:whomeantan:20161012123832j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>[概要]</h3>
 
@@ -4049,7 +4049,7 @@ BODY:
 
 <p><b>「今日やりたいこと」を忍者たちひとりひとりに、聞いていきます。</b></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161012/20161012124439.jpg" alt="f:id:whomeantan:20161012124439j:plain" title="f:id:whomeantan:20161012124439j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161012124439.jpg" alt="f:id:whomeantan:20161012124439j:plain" title="f:id:whomeantan:20161012124439j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼各自、準備してくれたテーマはつぎのとおり</h4>
 
@@ -4064,34 +4064,34 @@ BODY:
 </ul>
 
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161012/20161012125024.jpg" alt="f:id:whomeantan:20161012125024j:plain" title="f:id:whomeantan:20161012125024j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161012125024.jpg" alt="f:id:whomeantan:20161012125024j:plain" title="f:id:whomeantan:20161012125024j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼作品づくりに取り組む</h3>
 
 <p><b>おとなりさんの作品もちょっと気になります。すでに家で少し作ってきたという忍者もいます。本を見ながら寡黙に。また、こうしたい、早く早く、という忍者もいてメンターもなぜか焦ってしまいます。ある程度完成させると、自分のゲームと、隣の忍者のゲームと交代して遊んでいる仲良しもいました。
 </b></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161012/20161012125152.jpg" alt="f:id:whomeantan:20161012125152j:plain" title="f:id:whomeantan:20161012125152j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161012125152.jpg" alt="f:id:whomeantan:20161012125152j:plain" title="f:id:whomeantan:20161012125152j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼みんなで相談しながら</h3>
 
 <p><b>「ここどうしたらいいかな」メンターもできるだけみんなに相談しながら考えます。
 </b></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161012/20161012125350.jpg" alt="f:id:whomeantan:20161012125350j:plain" title="f:id:whomeantan:20161012125350j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161012125350.jpg" alt="f:id:whomeantan:20161012125350j:plain" title="f:id:whomeantan:20161012125350j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼できたよ！発表風景</h3>
 
 <p><b>「今日の発表はなんだか充実していてうれしいね」というチャンピオンの声が聞こえてきました。Ｈくん、ちびっこメンターSくんも作りかけの作品を完成させてくれたり、はじめてのUくんもお父さんと一緒に頑張ってやってくれてよかったです。</b></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161012/20161012125609.jpg" alt="f:id:whomeantan:20161012125609j:plain" title="f:id:whomeantan:20161012125609j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161012125609.jpg" alt="f:id:whomeantan:20161012125609j:plain" title="f:id:whomeantan:20161012125609j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>▼いつもの集合写真</h3>
 
 <p><b>忍者同士、横のつながりができて交流できるのも<a class="keyword" href="http://d.hatena.ne.jp/keyword/Dojo">Dojo</a>での楽しみでもあります。初めてきた忍者に感想を聞くと「楽しかった」とのことでした。(^^)/
 </b></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20161012/20161012125726.jpg" alt="f:id:whomeantan:20161012125726j:plain" title="f:id:whomeantan:20161012125726j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20161012125726.jpg" alt="f:id:whomeantan:20161012125726j:plain" title="f:id:whomeantan:20161012125726j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>募金など</h4>
 
@@ -4146,7 +4146,7 @@ BODY:
 <p><b><span style="font-size: 110%">今週の一枚</span></b>：会の始まりです。
            「今日はなにつくるの？」とチャンピオンに聞かれています。はきはき答えて頼もしい中学生。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160926/20160926133620.jpg" alt="f:id:whomeantan:20160926133620j:plain" title="f:id:whomeantan:20160926133620j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160926133620.jpg" alt="f:id:whomeantan:20160926133620j:plain" title="f:id:whomeantan:20160926133620j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4><span style="font-size: 120%">【概要】</span></h4>
 
@@ -4169,17 +4169,17 @@ BODY:
 
 <p>• Sword 図鑑・・・剣図鑑ということで20種類以上の絵を描いていた</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160926/20160926134105.jpg" alt="f:id:whomeantan:20160926134105j:plain" title="f:id:whomeantan:20160926134105j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160926134105.jpg" alt="f:id:whomeantan:20160926134105j:plain" title="f:id:whomeantan:20160926134105j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>▼みんな一生懸命に作品つくり</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160926/20160926134253.jpg" alt="f:id:whomeantan:20160926134253j:plain" title="f:id:whomeantan:20160926134253j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160926134253.jpg" alt="f:id:whomeantan:20160926134253j:plain" title="f:id:whomeantan:20160926134253j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>小学一年生から中学生まで、年齢の幅も大きい。家で作った作品に加えていく忍者、準備してきた本を広げて熱心に、また、作ったゲームでしきりにテストし楽しんでいる忍者も、みんな真面目に取り組んでいます。そういえば、写真を見るとオレンジ色のＴシャツの忍者二人いました。</p>
 
 <h4>▼メンターと一緒に、あれこれ、相談しながら進めていきます</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160926/20160926134454.jpg" alt="f:id:whomeantan:20160926134454j:plain" title="f:id:whomeantan:20160926134454j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160926134454.jpg" alt="f:id:whomeantan:20160926134454j:plain" title="f:id:whomeantan:20160926134454j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>すこし疲れてくるころ、あと３０分、発表できるかな、と、励まします。</p>
 
@@ -4187,7 +4187,7 @@ BODY:
 
 <p>想像力は壮大、司会のメンターさんにいっぱい話をしてくれます。みんなこういうふうにしたい、という夢を語ります。今日は作品を完成した忍者は五人のうち二人でした。あとはまだまだこれからもっと作っていくよ、と意気込みもすごい。「途中で投げ出さないで最後まで作ってね」とチャンピオンの松成さん。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160926/20160926134732.jpg" alt="f:id:whomeantan:20160926134732j:plain" title="f:id:whomeantan:20160926134732j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160926134732.jpg" alt="f:id:whomeantan:20160926134732j:plain" title="f:id:whomeantan:20160926134732j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>終わりに　</h4>
 
@@ -4226,7 +4226,7 @@ BODY:
 
 <h3>場所：イーブルなごや　中会議室</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160915/20160915225600.jpg" alt="f:id:whomeantan:20160915225600j:plain" title="f:id:whomeantan:20160915225600j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160915225600.jpg" alt="f:id:whomeantan:20160915225600j:plain" title="f:id:whomeantan:20160915225600j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p><b>今週の一枚：大学の先生と対等な顔つきの1年生
 </b></p>
@@ -4253,19 +4253,19 @@ BODY:
 
 <p><hd></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160915/20160915232020.jpg" alt="f:id:whomeantan:20160915232020j:plain" title="f:id:whomeantan:20160915232020j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160915232020.jpg" alt="f:id:whomeantan:20160915232020j:plain" title="f:id:whomeantan:20160915232020j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>みんな一生懸命に作品つくり</h3>
 
 <p><hd></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160915/20160915232113.jpg" alt="f:id:whomeantan:20160915232113j:plain" title="f:id:whomeantan:20160915232113j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160915232113.jpg" alt="f:id:whomeantan:20160915232113j:plain" title="f:id:whomeantan:20160915232113j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>発表風景。思ったものが出来たかな。</h3>
 
 <p><hd></p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160915/20160915232227.jpg" alt="f:id:whomeantan:20160915232227j:plain" title="f:id:whomeantan:20160915232227j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160915232227.jpg" alt="f:id:whomeantan:20160915232227j:plain" title="f:id:whomeantan:20160915232227j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>恒例の集合写真</h3>
 
@@ -4299,7 +4299,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160902/2016
 BODY:
 <h3>皆さん、こんにちは。　いつもお世話になります。</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160902/20160902142312.png" alt="f:id:whomeantan:20160902142312p:plain" title="f:id:whomeantan:20160902142312p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160902142312.png" alt="f:id:whomeantan:20160902142312p:plain" title="f:id:whomeantan:20160902142312p:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>この9月から<a class="keyword" href="http://d.hatena.ne.jp/keyword/Dojo">Dojo</a>の開催案内がDoorKeeperからConnpassに変わりました。この使い方を説明します。</h3>
 
@@ -4375,13 +4375,13 @@ BODY:
 
 <h3>場所：あいち<a class="keyword" href="http://d.hatena.ne.jp/keyword/NPO">NPO</a>交流プラザ会議コーナー3</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160829/20160829175700.jpg" alt="f:id:whomeantan:20160829175700j:plain" title="f:id:whomeantan:20160829175700j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160829175700.jpg" alt="f:id:whomeantan:20160829175700j:plain" title="f:id:whomeantan:20160829175700j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>今回の一枚：　いつもニコニコと楽しそうな忍者とメンターのWatanabe　さん</h4>
 
 <h4>会場探し</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160829/20160829194441.jpg" alt="f:id:whomeantan:20160829194441j:plain" title="f:id:whomeantan:20160829194441j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160829194441.jpg" alt="f:id:whomeantan:20160829194441j:plain" title="f:id:whomeantan:20160829194441j:plain" class="hatena-fotolife" itemprop="image"></span>
 いつもは「イーブルなごや」で行っているが、必ずしもいい場所が取れるとは限らない。たまたまた立ち寄った「あいち<a class="keyword" href="http://d.hatena.ne.jp/keyword/NPO">NPO</a>交流プラザ」で会議室が無料で使えるとのこと、また、結構空いてもいるようで使ってみることにした。</p>
 
 <h3>概要</h3>
@@ -4403,21 +4403,21 @@ BODY:
 
 <h4>進行</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160829/20160829200822.jpg" alt="f:id:whomeantan:20160829200822j:plain" title="f:id:whomeantan:20160829200822j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160829200822.jpg" alt="f:id:whomeantan:20160829200822j:plain" title="f:id:whomeantan:20160829200822j:plain" class="hatena-fotolife" itemprop="image"></span>
 いつもの進行風景です。
 みんな一生懸命にやっています。</p>
 
 <h4>報告</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160829/20160829202937.jpg" alt="f:id:whomeantan:20160829202937j:plain" title="f:id:whomeantan:20160829202937j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160829202937.jpg" alt="f:id:whomeantan:20160829202937j:plain" title="f:id:whomeantan:20160829202937j:plain" class="hatena-fotolife" itemprop="image"></span>
 今回は写真が少なめです。これが上のどのテーマかわかるでしょうか？皆さん、頑張りました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160829/20160829203232.jpg" alt="f:id:whomeantan:20160829203232j:plain" title="f:id:whomeantan:20160829203232j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160829203232.jpg" alt="f:id:whomeantan:20160829203232j:plain" title="f:id:whomeantan:20160829203232j:plain" class="hatena-fotolife" itemprop="image"></span>
 発表風景です。みんなまじめに楽しそうに見ています。問題もあるのですが、一つづつ、みんなで仲良く解決していければと思います。</p>
 
 <h3>集合写真</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160829/20160829221545.jpg" alt="f:id:whomeantan:20160829221545j:plain" title="f:id:whomeantan:20160829221545j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160829221545.jpg" alt="f:id:whomeantan:20160829221545j:plain" title="f:id:whomeantan:20160829221545j:plain" class="hatena-fotolife" itemprop="image"></span>
 恒例の集合写真です。いつも影に隠れるKくんも、今回は前に顔を出しています。こんなことも一歩前進といったところでしょう。</p>
 
 <h3>謝辞</h3>
@@ -4450,7 +4450,7 @@ BODY:
 
 <h3><b>開催場所：イーブルなごや　中会議室</b></h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160815/20160815230356.jpg" alt="f:id:whomeantan:20160815230356j:plain" title="f:id:whomeantan:20160815230356j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160815230356.jpg" alt="f:id:whomeantan:20160815230356j:plain" title="f:id:whomeantan:20160815230356j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5><b>今日の一枚</b></h5>
 
@@ -4472,7 +4472,7 @@ BODY:
 
 <p>といったところ。子どもたちはそれなりのイメージが有るのだろう。まずは、これを進行メモに書いてもらった。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160815/20160815232703.jpg" alt="f:id:whomeantan:20160815232703j:plain" title="f:id:whomeantan:20160815232703j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160815232703.jpg" alt="f:id:whomeantan:20160815232703j:plain" title="f:id:whomeantan:20160815232703j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4><b>実習風景</b></h4>
 
@@ -4486,7 +4486,7 @@ BODY:
 
 <h4><b>集合写真</b></h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160815/20160815235318.jpg" alt="f:id:whomeantan:20160815235318j:plain" title="f:id:whomeantan:20160815235318j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160815235318.jpg" alt="f:id:whomeantan:20160815235318j:plain" title="f:id:whomeantan:20160815235318j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>謝辞</h3>
 
@@ -4513,7 +4513,7 @@ BODY:
 
 <h3><b>開催場所：イーブルなごや　中会議室</b></h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160815/20160815230356.jpg" alt="f:id:whomeantan:20160815230356j:plain" title="f:id:whomeantan:20160815230356j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160815230356.jpg" alt="f:id:whomeantan:20160815230356j:plain" title="f:id:whomeantan:20160815230356j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h5><b>今日の一枚</b></h5>
 
@@ -4535,7 +4535,7 @@ BODY:
 
 <p>といったところ。子どもたちはそれなりのイメージが有るのだろう。まずは、これを進行メモに書いてもらった。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160815/20160815232703.jpg" alt="f:id:whomeantan:20160815232703j:plain" title="f:id:whomeantan:20160815232703j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160815232703.jpg" alt="f:id:whomeantan:20160815232703j:plain" title="f:id:whomeantan:20160815232703j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4><b>実習風景</b></h4>
 
@@ -4549,7 +4549,7 @@ BODY:
 
 <h4><b>集合写真</b></h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160815/20160815235318.jpg" alt="f:id:whomeantan:20160815235318j:plain" title="f:id:whomeantan:20160815235318j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160815235318.jpg" alt="f:id:whomeantan:20160815235318j:plain" title="f:id:whomeantan:20160815235318j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>謝辞</h3>
 
@@ -4579,7 +4579,7 @@ BODY:
 
 <h4>今日の一枚</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160726/20160726142204.jpg" alt="f:id:whomeantan:20160726142204j:plain" title="f:id:whomeantan:20160726142204j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160726142204.jpg" alt="f:id:whomeantan:20160726142204j:plain" title="f:id:whomeantan:20160726142204j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>概要</h3>
 
@@ -4598,7 +4598,7 @@ BODY:
 
 <p>Kくんはシャイな子どもでいつも恥ずかしがってしまう。いつも、綺麗な絵を描いてくれる。動きはどうでもいいのかもしれない。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160726/20160726152003.jpg" alt="f:id:whomeantan:20160726152003j:plain" title="f:id:whomeantan:20160726152003j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160726152003.jpg" alt="f:id:whomeantan:20160726152003j:plain" title="f:id:whomeantan:20160726152003j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>作品制作過程</h4>
 
@@ -4606,13 +4606,13 @@ BODY:
 
 <p>Hour of Codeのマイクラくん、前回はパソコンのフィルターで隣でうまく見れなかったので、5問くらいまでだったが、今回はやり直して、全問完成。自由作品では「もう自由自在だ」といって楽しんでいた。スターウオーズの子はゲーム自体がほとんどやってないとの事だったけど、最初、ちょっと一緒にやったら、後半のマウス操作でキャラを動かすとこはほとんど自分でやって完成。ついもっとやりたいとのことでマイクラをやってもらったが、スターウオーズが消えてしまって発表できず、気の毒なことをした。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160726/20160726154415.jpg" alt="f:id:whomeantan:20160726154415j:plain" title="f:id:whomeantan:20160726154415j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160726154415.jpg" alt="f:id:whomeantan:20160726154415j:plain" title="f:id:whomeantan:20160726154415j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>アド<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D9%A5%F3%A5%C1%A5%E3%A1%BC">ベンチャー</a>・ゲームと言った子。</h4>
 
 <p>プロジェクターでうまく出ないので、お父さんがパソコンを持って発表してくれた。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160726/20160726154925.jpg" alt="f:id:whomeantan:20160726154925j:plain" title="f:id:whomeantan:20160726154925j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160726154925.jpg" alt="f:id:whomeantan:20160726154925j:plain" title="f:id:whomeantan:20160726154925j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>集合写真。</h4>
 
@@ -4652,32 +4652,32 @@ BODY:
 
 <h3>開催場所：イーブルなごや　中会議室</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160712/20160712110846.jpg" alt="f:id:whomeantan:20160712110846j:plain" title="f:id:whomeantan:20160712110846j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160712110846.jpg" alt="f:id:whomeantan:20160712110846j:plain" title="f:id:whomeantan:20160712110846j:plain" class="hatena-fotolife" itemprop="image"></span>
 中会議室の風景</p>
 
 <h3>イントロ</h3>
 
 <p>今回は中会議室をとることができました。ちょっと広々としていい感じでした。メンターも5人、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D5%A5%EB%A5%B9%A5%BF">フルスタ</a>ッフが集まったので、定員も8名としました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160712/20160712111827.jpg" alt="f:id:whomeantan:20160712111827j:plain" title="f:id:whomeantan:20160712111827j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160712111827.jpg" alt="f:id:whomeantan:20160712111827j:plain" title="f:id:whomeantan:20160712111827j:plain" class="hatena-fotolife" itemprop="image"></span>
 毎回、今日やることのテーマを考えてきてもらっています。だいぶ、慣れてきたようで、毎回来る子はそれなりに準備して来てくれています。この程度やっておけば、<a class="keyword" href="http://d.hatena.ne.jp/keyword/Dojo">Dojo</a>で残りをやって、発表できるのだろうと思ってくれているのでしょうか。</p>
 
 <h3>制作風景</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160712/20160712113226.jpg" alt="f:id:whomeantan:20160712113226j:plain" title="f:id:whomeantan:20160712113226j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160712113226.jpg" alt="f:id:whomeantan:20160712113226j:plain" title="f:id:whomeantan:20160712113226j:plain" class="hatena-fotolife" itemprop="image"></span>
 初めての忍者にはHoC。真剣な目つきが頼もしい。初めて子供のほうが真剣かな。常連はちょっとゆっくりとしているかも。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160712/20160712113704.jpg" alt="f:id:whomeantan:20160712113704j:plain" title="f:id:whomeantan:20160712113704j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160712113704.jpg" alt="f:id:whomeantan:20160712113704j:plain" title="f:id:whomeantan:20160712113704j:plain" class="hatena-fotolife" itemprop="image"></span>
 少し、時間が経ってから・・・　みんなまじめにやってくれている。</p>
 
 <h3>発表風景</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160712/20160712115645.jpg" alt="f:id:whomeantan:20160712115645j:plain" title="f:id:whomeantan:20160712115645j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160712115645.jpg" alt="f:id:whomeantan:20160712115645j:plain" title="f:id:whomeantan:20160712115645j:plain" class="hatena-fotolife" itemprop="image"></span>
 発表もだいぶ慣れてきた。ちょっと声が小さいのが難点だけど。。。　作品的にはマリオが階段を降りてきて、そこへ邪魔者としてボールが落ちてくる。それを避けながら・・・と言った者のできが良かった。斜めの階段に降りた時、ちょっと滑らせるといった芸の細かさもあった。ここの報告に出すにはアカウントを聞いておかなくてはいけない。。。</p>
 
 <h3>集合写真</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160712/20160712125504.jpg" alt="f:id:whomeantan:20160712125504j:plain" title="f:id:whomeantan:20160712125504j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160712125504.jpg" alt="f:id:whomeantan:20160712125504j:plain" title="f:id:whomeantan:20160712125504j:plain" class="hatena-fotolife" itemprop="image"></span>
 最後には集合写真を撮るのを忘れて、一部の人が帰ってしまいました。</p>
 
 <h3>トラブル</h3>
@@ -4714,7 +4714,7 @@ BODY:
 
 <h3>開催場所：イーブルなごや-第4研修室</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160626/20160626215153.jpg" alt="f:id:whomeantan:20160626215153j:plain" title="f:id:whomeantan:20160626215153j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160626215153.jpg" alt="f:id:whomeantan:20160626215153j:plain" title="f:id:whomeantan:20160626215153j:plain" class="hatena-fotolife" itemprop="image"></span>
 ピヨンキーで書いた癒やしの絵</p>
 
 <h3>概要</h3>
@@ -4722,7 +4722,7 @@ BODY:
 <p>前回の失敗があって、今回は張り切って早めに出かけた。が、、すでにメンターの山吉さんが来ていた。有り難いことだと思う。程なく、伊藤さん、それに見学のUさんも見えた。
 忍者の方は5名の予定だったが、2名は見えず、結局、3人の忍者とちびっ子メンターの4人の子ども。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160626/20160626220703.jpg" alt="f:id:whomeantan:20160626220703j:plain" title="f:id:whomeantan:20160626220703j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160626220703.jpg" alt="f:id:whomeantan:20160626220703j:plain" title="f:id:whomeantan:20160626220703j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>PCよりは<a class="keyword" href="http://d.hatena.ne.jp/keyword/iPad">iPad</a>の方が使いやすいというK君、最初、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%A2%A5%DB%A5%A6%A5%C9%A5%EA">アホウドリ</a>の絵を上手に描いていたが、保存に失敗。今までの水槽の絵の修正。ちょっと魚を多くしすぎた感もあるが、かなり、癒やしっぽい絵になっている。そういえば、この子は前にも鳥？を画面いっぱいに描いていた。</p>
 
@@ -4734,7 +4734,7 @@ BODY:
 
 <h3>集合写真</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160626/20160626222742.jpg" alt="f:id:whomeantan:20160626222742j:plain" title="f:id:whomeantan:20160626222742j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160626222742.jpg" alt="f:id:whomeantan:20160626222742j:plain" title="f:id:whomeantan:20160626222742j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>今回はあまり嫌がる子もなくて素直に入ってくれた。時々、人が変わるけど、だんだんと馴染んできてくれているかと思う。</p>
 
@@ -4771,21 +4771,21 @@ BODY:
 
 <h3>場所：イーブルなごや小会議室</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160613/20160613152948.jpg" alt="f:id:whomeantan:20160613152948j:plain" title="f:id:whomeantan:20160613152948j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160613152948.jpg" alt="f:id:whomeantan:20160613152948j:plain" title="f:id:whomeantan:20160613152948j:plain" class="hatena-fotolife" itemprop="image"></span>
 ちびっ子メンターの指導風景</p>
 
 <h3>概要</h3>
 
 <p>今回は参加忍者の一人が直前のキャンセル、一人が無断でキャンセル、一人がお兄さんの代わりということで参加。結局、ちびっ子メンターを入れて5人の参加。メンターもいつもの伊藤さんが仕事の都合で不参加。松田さんと二人でのちょっと寂しい集まりになった。</p>
 
-<p>いつも今日作る作品を考えてきてもらっている。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%B8%B5%C1%C7%B5%AD%B9%E6">元素記号</a>でクイズを作るという忍者、何かのスイッチの改良、<a class="keyword" href="http://d.hatena.ne.jp/keyword/RPG">RPG</a>でゲームを作る、ぴょんぴょんとぶ物を作るとか、、結構、意気揚々で始まった。<span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160613/20160613160606.jpg" alt="f:id:whomeantan:20160613160606j:plain" title="f:id:whomeantan:20160613160606j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p>いつも今日作る作品を考えてきてもらっている。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%B8%B5%C1%C7%B5%AD%B9%E6">元素記号</a>でクイズを作るという忍者、何かのスイッチの改良、<a class="keyword" href="http://d.hatena.ne.jp/keyword/RPG">RPG</a>でゲームを作る、ぴょんぴょんとぶ物を作るとか、、結構、意気揚々で始まった。<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160613160606.jpg" alt="f:id:whomeantan:20160613160606j:plain" title="f:id:whomeantan:20160613160606j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p><a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%CB%A5%DB%A5%CB%A5%A6%A5%E0">ニホニウム</a>に影響されてか、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%B8%B5%C1%C7%B5%AD%B9%E6">元素記号</a>に取り組んだけど、100をこす記号表に疲れたと37個の記号を書いたところで体力消耗。ちびっ子メンターも頑張ってわからないところを聞いてくれたけど、分からない。まだ、うまく言葉が通じない😢　スイッチの改良君、音楽の切り替えらしかったけど、いつの間にか変わっていた。ぴょんぴょんとぶと言ってもいまいちわからない。言葉のない世界。ちょっと、みんな頑張り過ぎなのかな。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160613/20160613165147.jpg" alt="f:id:whomeantan:20160613165147j:plain" title="f:id:whomeantan:20160613165147j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160613165147.jpg" alt="f:id:whomeantan:20160613165147j:plain" title="f:id:whomeantan:20160613165147j:plain" class="hatena-fotolife" itemprop="image"></span>
 それでも、結果発表。いろいろあったけど、スイッチの改良君、マウスの動きを表示してくれた。一種のScratchBlockといってもいいかもしれませんね。猫がネズミをおいかけるを元にライオンが馬を追いかけていたが、馬の鳴き声と走る音が一致していて、良かったとは松田さんの評価。ちびっ子メンターさんの作品は僕には難しかった。ほかのひとの面倒も見てもらって、自分の時間もとれなかったかもしれない。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%B8%B5%C1%C7%B5%AD%B9%E6">元素記号</a>君、<a class="keyword" href="http://d.hatena.ne.jp/keyword/mac">mac</a>がうまくプロジェクターにつながらなかった。残念。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160613/20160613170658.jpg" alt="f:id:whomeantan:20160613170658j:plain" title="f:id:whomeantan:20160613170658j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160613170658.jpg" alt="f:id:whomeantan:20160613170658j:plain" title="f:id:whomeantan:20160613170658j:plain" class="hatena-fotolife" itemprop="image"></span>
 最後はいつもの集合写真。</p>
 
 <h3>ちびっ子メンターくんの作品</h3>
@@ -4836,7 +4836,7 @@ BODY:
 
 <h3>場所：イーブルなごや・小会議室</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160530/20160530120011.jpg" alt="f:id:whomeantan:20160530120011j:plain" title="f:id:whomeantan:20160530120011j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160530120011.jpg" alt="f:id:whomeantan:20160530120011j:plain" title="f:id:whomeantan:20160530120011j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>概要</h3>
 
@@ -4844,16 +4844,16 @@ BODY:
 
 <p>お題は「紙ひこうき飛ばし！」、制約は紙ひこうきの絵だけは使うこと。ひこうきの絵は上向き、水平、下向きの3種類が準備されていた。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160530/20160530123332.jpg" alt="f:id:whomeantan:20160530123332j:plain" title="f:id:whomeantan:20160530123332j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160530123332.jpg" alt="f:id:whomeantan:20160530123332j:plain" title="f:id:whomeantan:20160530123332j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>早速、とりかかる忍者、う～んとちょっとやりたくなさそうな忍者、雑然とお喋りをする忍者、それぞれだったが、段々とみんなでとりかかっていった。</p>
 
 <p>ひこうきが飛び、それをさえぎる玉、幽霊とかのイメージで作っていった。ある忍者はひこうきが爆弾にあたって分解・破壊というのを作っていた。ちょっと、気が乗らなかったかもしれない。
-<span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160530/20160530131740.jpg" alt="f:id:whomeantan:20160530131740j:plain" title="f:id:whomeantan:20160530131740j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160530131740.jpg" alt="f:id:whomeantan:20160530131740j:plain" title="f:id:whomeantan:20160530131740j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>今回はテーマが決まっていたので、チビッコメンターもやりやすかったのか、積極的に飛び回って面倒を見てくれていた。やはり、子供たちは子どもたちで変なことを考えないで付き合えるのでいいと思う。今回、Scratchの<a class="keyword" href="http://d.hatena.ne.jp/keyword/SNS">SNS</a>にアップ、Studioに登録をやろうとしたが、うまく行かず、チビッコメンターに教えられるとこが多かった。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160530/20160530140912.jpg" alt="f:id:whomeantan:20160530140912j:plain" title="f:id:whomeantan:20160530140912j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160530140912.jpg" alt="f:id:whomeantan:20160530140912j:plain" title="f:id:whomeantan:20160530140912j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>さて、発表だけど、部屋のカーテンを閉じたので暗くなってしまった。カメラマンの松田さんの苦心の作で雰囲気は読めるかな。まだ、発表に慣れてない子もいて、暗い雰囲気は余計まずかったかもしれない。発表を大事にとは思っているけれど、なかなか難しい。
 <br></p>
@@ -4867,7 +4867,7 @@ BODY:
 こちらはチビッコメンターの作品。時間内にさらさらと作って、ちょっとあっさりし過ぎかな。</p>
 
 <p><br>
-<span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160530/20160530142215.jpg" alt="f:id:whomeantan:20160530142215j:plain" title="f:id:whomeantan:20160530142215j:plain" class="hatena-fotolife" itemprop="image"></span>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160530142215.jpg" alt="f:id:whomeantan:20160530142215j:plain" title="f:id:whomeantan:20160530142215j:plain" class="hatena-fotolife" itemprop="image"></span>
 最後は恒例の集合写真。段々とみんな写真に撮られるのを楽しみにしてくれる子も増えてきた感じがする。</p>
 
 <h3>反省</h3>
@@ -4905,7 +4905,7 @@ DATE: 05/09/2016 18:03:08
 IMAGE: http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160509/20160509163213.jpg
 -----
 BODY:
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160509/20160509163213.jpg" alt="f:id:whomeantan:20160509163213j:plain" title="f:id:whomeantan:20160509163213j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160509163213.jpg" alt="f:id:whomeantan:20160509163213j:plain" title="f:id:whomeantan:20160509163213j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>開催日時：2016年5月8日（日）13:30～15:30</h3>
 
@@ -4919,13 +4919,13 @@ BODY:
 
 <p>今日は特別ニュースとしてものtoshを希望者に紹介と思ったが、チビッコメンター以外は位置づけが理解できなかったのだろう。ほかの子は<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D1%A5%C3%A5%AF%A5%DE%A5%F3">パックマン</a>、ハードル走とかゲームとか各自の問題を行った。二人連れは自分の顔写真の切り抜きを作っていた。伊藤さんが教えたのかな。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160509/20160509170652.jpg" alt="f:id:whomeantan:20160509170652j:plain" title="f:id:whomeantan:20160509170652j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160509170652.jpg" alt="f:id:whomeantan:20160509170652j:plain" title="f:id:whomeantan:20160509170652j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>チビッコメンターへのtoshの紹介は簡単に済ませただけだけど、とりあえずはそれで十分だったと思う。帰りには簡単な避けげーというのかな。マウスに向かって弾が四方八方に飛んでくるのを避けるといった物をつくっていた。</p>
 
 <p>ほかの忍者の目玉は「うんこ」だったかな。ひとりが盛り上がると3人で作っていた。いつも騒ぐ二人連れの子の完成度が高かった。上から落ちてきて頭に当たって消えるという感じ。<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%D1%A5%C3%A5%AF%A5%DE%A5%F3">パックマン</a>の子は意欲的だったけど、ちょっと時間がなかったんかもしれない。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160509/20160509173615.jpg" alt="f:id:whomeantan:20160509173615j:plain" title="f:id:whomeantan:20160509173615j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160509173615.jpg" alt="f:id:whomeantan:20160509173615j:plain" title="f:id:whomeantan:20160509173615j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>雑感</h4>
 
@@ -4934,7 +4934,7 @@ BODY:
 
 <h3>集合写真</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160509/20160509180020.jpg" alt="f:id:whomeantan:20160509180020j:plain" title="f:id:whomeantan:20160509180020j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160509180020.jpg" alt="f:id:whomeantan:20160509180020j:plain" title="f:id:whomeantan:20160509180020j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>謝辞</h3>
 
@@ -4964,7 +4964,7 @@ DATE: 04/27/2016 23:30:39
 IMAGE: http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160427/20160427211349.jpg
 -----
 BODY:
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160427/20160427211349.jpg" alt="f:id:whomeantan:20160427211349j:plain" title="f:id:whomeantan:20160427211349j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160427211349.jpg" alt="f:id:whomeantan:20160427211349j:plain" title="f:id:whomeantan:20160427211349j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>開催日時：2016年4月24日（日）13:30～15:30</h3>
 
@@ -4976,19 +4976,19 @@ BODY:
 
 <p>はじまると、まずはみんなに何をやるかを聞く。星のカービー<a class="keyword" href="http://d.hatena.ne.jp/keyword/wii">wii</a> とか、にゃんこ大戦争とか、、、なんだ、これはと思ったが、あとで見せてもらうことに。岩が落ちてくるのを避ける、ナイトが怪獣から逃げる、テキストをやる、千本桜、ちょっと考えられないけど、、何が好きかと聞いたら動物という、、、じゃあ、動物園でいろんな動物を出したら。といったことではじまった。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160427/20160427224450.jpg" alt="f:id:whomeantan:20160427224450j:plain" title="f:id:whomeantan:20160427224450j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160427224450.jpg" alt="f:id:whomeantan:20160427224450j:plain" title="f:id:whomeantan:20160427224450j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>みんな、それぞれにやっている。メンターさんもそれぞれ回って相談に乗っていた。星のカービー君、3月から始めたばかりだけど、とのことだけど、必要な素材はダウンロードで<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8">スクリプト</a>は<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B7%A5%E5%A1%BC%A5%C6%A5%A3%A5%F3%A5%B0%A5%B2%A1%BC%A5%E0">シューティングゲーム</a>的。一見、素晴らしいものができていた。こんな短期間にこういうものができるのが不思議。。。にゃんこ大戦争は手慣れたつくり。前回もだったが、10ステージに分けて、今回は5ステージまで。</p>
 
 <p>怪獣君は色彩が素晴らしかった。まだ、あまり慣れてはいないのだけど。千本桜はちょっと進歩が少ないが、楽しそうにやっている。岩石君は最後にまとめるのがうまいのは前回と同じ。動物君は水族館になって、メンターの指導で魚を動かしていた。提灯アンコウの絵が面白かった。テキスト君はフィズ・バズを終えてかえるの歌になっていた。終了時点に気が付けばよかった。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160427/20160427230155.jpg" alt="f:id:whomeantan:20160427230155j:plain" title="f:id:whomeantan:20160427230155j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160427230155.jpg" alt="f:id:whomeantan:20160427230155j:plain" title="f:id:whomeantan:20160427230155j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>途中であまり騒ぐので、ほとんど切れかけた。それを感じて、みんな、そこからちょっと静かになった。いいことだったのか、悪いことだったのか。</p>
 
 <h3>集合写真</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160427/20160427230556.jpg" alt="f:id:whomeantan:20160427230556j:plain" title="f:id:whomeantan:20160427230556j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160427230556.jpg" alt="f:id:whomeantan:20160427230556j:plain" title="f:id:whomeantan:20160427230556j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>謝辞</h3>
 
@@ -5023,7 +5023,7 @@ CATEGORY: 終了報告
 IMAGE: http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160412/20160412145526.jpg
 -----
 BODY:
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160412/20160412145526.jpg" alt="f:id:whomeantan:20160412145526j:plain" title="f:id:whomeantan:20160412145526j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160412145526.jpg" alt="f:id:whomeantan:20160412145526j:plain" title="f:id:whomeantan:20160412145526j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>日時：2016年4月10日（日）13時30分～15時30分</h3>
 
@@ -5042,11 +5042,11 @@ BODY:
 
 <p>テキストの子も、チビッコメンターもそれぞれ完成。　ひとり、新しい子が黙々と腕組みをしたりして頑張っていた。できる子らしかったが、近づきにくい感もあって、ほおって置いた。お互いにもう少し打ち解けていかないとダメなのだけど。ちょっと気になる存在だった。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160412/20160412160045.jpg" alt="f:id:whomeantan:20160412160045j:plain" title="f:id:whomeantan:20160412160045j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160412160045.jpg" alt="f:id:whomeantan:20160412160045j:plain" title="f:id:whomeantan:20160412160045j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>プロジェクト作成風景</h4>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160412/20160412160303.jpg" alt="f:id:whomeantan:20160412160303j:plain" title="f:id:whomeantan:20160412160303j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160412160303.jpg" alt="f:id:whomeantan:20160412160303j:plain" title="f:id:whomeantan:20160412160303j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>楽しい発表会</h4>
 
@@ -5054,7 +5054,7 @@ BODY:
 
 <p>今回は和室でみんなの席で発表してもらったので保護者の方にきちんと見てもらえなかった。次回は重いけど、プロジェクターを持っていこう。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160412/20160412161141.jpg" alt="f:id:whomeantan:20160412161141j:plain" title="f:id:whomeantan:20160412161141j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160412161141.jpg" alt="f:id:whomeantan:20160412161141j:plain" title="f:id:whomeantan:20160412161141j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h4>最後にお決まりの集合写真。今回はなぜか、みんな緊張気味かな。</h4>
 
@@ -5109,7 +5109,7 @@ BODY:
 
 <h3>場所：イーブルなごや　小会議室</h3>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160328/20160328113049.jpg" alt="f:id:whomeantan:20160328113049j:plain" title="f:id:whomeantan:20160328113049j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160328113049.jpg" alt="f:id:whomeantan:20160328113049j:plain" title="f:id:whomeantan:20160328113049j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>イーブルなごやもちょっと慣れたところで、今日は外で昼食。熱いラーメンで汗だくだくで13時に会場へ。準備していると段々と集まって見える。13時30分スタート。会のこと、進め方などを簡単に保護者の方に説明して外で待ってもらうことにする。</p>
 
@@ -5123,16 +5123,16 @@ BODY:
 
 <p>テキスト忍者は一応、わくプロはやったのだけどと言いながら、そこのなんでもクイズをもう一度、今回は自分で問題をと言いながら作っていた。単位の問題で「１Lは？ml」とか言っていたが、その先が出てこない。「１年は？日」はどう？とか言われて、でもうるう年はどうするの？などといったやっていた。みんなに助けてもらって、それなりにクイズになって喜んでいた。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160328/20160328124143.jpg" alt="f:id:whomeantan:20160328124143j:plain" title="f:id:whomeantan:20160328124143j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160328124143.jpg" alt="f:id:whomeantan:20160328124143j:plain" title="f:id:whomeantan:20160328124143j:plain" class="hatena-fotolife" itemprop="image"></span>
 作品制作風景</p>
 
 <p>ほとんど、初めての子が3人くらい。一人に猫がネズミを追いかけるを説明して、それを隣の子に伝授ウしてあげていた。お互いに覗きあってやっていた。待ちきれない子は自分で、スプライトを探してきて、好きな鳥だったのかな、画面いっぱいに出して喜んでいた。ほかの子も猫の数を増やしたり、軌跡を線にしたりして楽しんでいた。サッカー忍者はボールの動きをいろいろと変えて楽しんでいた。数値をめちゃくちゃに変えて盛り上がっていた様子。鳥忍者も数だけではということで少しは動かしてもらった。両隣をにこにこと眺めていた。まあ、<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8">スクリプト</a>は次回からかな。</p>
 
 <p>15時になって、保護者の方に入ってもらった。いつも、外で待ってもらうのには申し訳ない気がするが、これも慣れることが必要だろう。忍者は子供達だけでのびのびとしている。
-<span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160328/20160328124407.jpg" alt="f:id:whomeantan:20160328124407j:plain" title="f:id:whomeantan:20160328124407j:plain" class="hatena-fotolife" itemprop="image"></span>
+<span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160328124407.jpg" alt="f:id:whomeantan:20160328124407j:plain" title="f:id:whomeantan:20160328124407j:plain" class="hatena-fotolife" itemprop="image"></span>
 作品発表風景</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160328/20160328124601.jpg" alt="f:id:whomeantan:20160328124601j:plain" title="f:id:whomeantan:20160328124601j:plain" class="hatena-fotolife" itemprop="image"></span>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160328124601.jpg" alt="f:id:whomeantan:20160328124601j:plain" title="f:id:whomeantan:20160328124601j:plain" class="hatena-fotolife" itemprop="image"></span>
 最後に記念写真。ちっちゃな将来の忍者も入ってくれて、はい、ピース！</p>
 
 <h4>謝辞</h4>
@@ -5156,7 +5156,7 @@ CATEGORY: 終了報告
 IMAGE: http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160314/20160314214738.jpg
 -----
 BODY:
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160314/20160314214738.jpg" alt="f:id:whomeantan:20160314214738j:plain" title="f:id:whomeantan:20160314214738j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160314214738.jpg" alt="f:id:whomeantan:20160314214738j:plain" title="f:id:whomeantan:20160314214738j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <h3>日時：2016年3月13日13:30～15:00</h3>
 
@@ -5172,21 +5172,21 @@ BODY:
 
 <p>4年生忍者が友達連れでやってきていて、、ともにちょっと経験があるといったところかな。一人は<a class="keyword" href="http://d.hatena.ne.jp/keyword/%A5%C9%A5%E9%A4%A8%A4%E2%A4%F3">ドラえもん</a>とのびた君のピストル決闘。上手に絵を描いていた。もう一人はメンターに猫がネズミを追いかけるから始まって、3匹の猫がネズミを追いかけるというゲームにしていた。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160314/20160314222212.jpg" alt="f:id:whomeantan:20160314222212j:plain" title="f:id:whomeantan:20160314222212j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160314222212.jpg" alt="f:id:whomeantan:20160314222212j:plain" title="f:id:whomeantan:20160314222212j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>メンターさんがうまく仕切ってくれて、うまい具合に手を出したりして、いい加減で進んでいったかと思う。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160314/20160314222345.jpg" alt="f:id:whomeantan:20160314222345j:plain" title="f:id:whomeantan:20160314222345j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160314222345.jpg" alt="f:id:whomeantan:20160314222345j:plain" title="f:id:whomeantan:20160314222345j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>弾が当たって、血が出るのですが、メッセージを使うのを忍者同士で教えていた。</p>
 
 <p>最後は発表タイム。プロジェクターを持っていってないので、みんなのテーブルで発表。小さい子はみんな仲良しになっていた。お母さん方も3時からは部屋に入ってもらうとのことで、一人二人と入って見えた。皆さんが写真・ビデオをとっているのが印象的だった。発表で人気があったのは猫逃げゲームだったかな。簡単なものでも、作った忍者の気持ちが伝わるのだろう。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160314/20160314223744.jpg" alt="f:id:whomeantan:20160314223744j:plain" title="f:id:whomeantan:20160314223744j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160314223744.jpg" alt="f:id:whomeantan:20160314223744j:plain" title="f:id:whomeantan:20160314223744j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>最後に記念写真を撮りました。メンターのお二人、5人の忍者たち、外で待っていただいた保護者の方々、ありがとうございました。</p>
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/w/whomeantan/20160314/20160314222931.jpg" alt="f:id:whomeantan:20160314222931j:plain" title="f:id:whomeantan:20160314222931j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://coder-dojo-nagoya-image.s3-website-ap-northeast-1.amazonaws.com/migrated/20160314222931.jpg" alt="f:id:whomeantan:20160314222931j:plain" title="f:id:whomeantan:20160314222931j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 <p>次回は3月27日です。定員を絞っていて、予約は埋まっていますので、申し訳ありませんが、今からだとキャンセル待ちになります。</p>
 
