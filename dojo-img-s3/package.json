@@ -1,0 +1,13 @@
+{
+  "name": "palthrow-dev-docs",
+  "version": "1.0.0",
+  "description": "PalThrowの開発文書置き場S3",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "2.7.21",
+    "cloudformation-z": "0.x",
+    "config": "1.x"
+  }
+}
